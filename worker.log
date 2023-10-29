@@ -1,0 +1,284 @@
+  2023-10-22 21:52:20 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-22 21:52:20 App\Events\NewViajeEvent ................. 108.05ms DONE
+  2023-10-22 22:03:31 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-22 22:03:31 App\Events\NewViajeEvent .................. 33.23ms DONE
+  2023-10-23 03:05:58 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-23 03:05:58 App\Events\NewViajeEvent .................. 61.25ms DONE
+  2023-10-23 03:29:10 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-23 03:29:10 App\Events\NewViajeEvent .................. 29.72ms DONE
+  2023-10-23 07:45:07 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-23 07:45:07 App\Events\NewViajeEvent .................. 45.18ms DONE
+  2023-10-23 08:01:53 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-23 08:01:53 App\Events\NewViajeEvent .................. 45.03ms DONE
+  2023-10-23 08:16:03 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-23 08:16:03 App\Events\NewViajeEvent .................. 48.89ms DONE
+  2023-10-23 09:00:12 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-23 09:00:12 App\Events\NewViajeEvent .................. 78.19ms DONE
+  2023-10-23 09:08:10 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-23 09:08:10 App\Events\NewViajeEvent .................. 48.03ms DONE
+  2023-10-23 10:03:24 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-23 10:03:24 App\Events\NewViajeEvent ................. 116.61ms DONE
+  2023-10-23 12:13:32 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-23 12:13:32 App\Events\NewViajeEvent .................. 70.95ms DONE
+  2023-10-23 12:27:23 App\Jobs\OptimizeImagen ........................ RUNNING
+  2023-10-23 12:27:23 App\Jobs\OptimizeImagen .................. 441.93ms DONE
+  2023-10-23 13:01:07 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-23 13:01:07 App\Events\NewViajeEvent .................. 53.88ms DONE
+  2023-10-23 13:40:17 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-23 13:40:17 App\Events\NewViajeEvent .................. 29.89ms DONE
+  2023-10-23 18:27:24 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-23 18:27:24 App\Events\NewViajeEvent .................. 74.11ms DONE
+  2023-10-23 19:08:22 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-23 19:08:22 App\Events\NewViajeEvent .................. 53.51ms DONE
+  2023-10-23 19:29:33 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-23 19:29:33 App\Events\NewViajeEvent .................. 20.51ms DONE
+  2023-10-23 19:46:26 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-23 19:46:26 App\Events\NewViajeEvent .................. 26.43ms DONE
+  2023-10-23 21:34:18 App\Jobs\ExportViajesExcel ..................... RUNNING
+  2023-10-23 21:34:24 App\Jobs\ExportViajesExcel ............. 5,645.77ms FAIL
+  2023-10-23 21:34:24 App\Jobs\ExportViajesExcel ..................... RUNNING
+  2023-10-23 21:34:29 App\Jobs\ExportViajesExcel ............. 5,348.90ms FAIL
+  2023-10-23 21:34:29 App\Jobs\ExportViajesExcel ..................... RUNNING
+  2023-10-23 21:34:35 App\Jobs\ExportViajesExcel ............. 5,406.89ms FAIL
+  2023-10-23 21:35:02 App\Jobs\ExportViajesExcel ..................... RUNNING
+  2023-10-23 21:35:07 App\Jobs\ExportViajesExcel ............. 5,362.53ms FAIL
+  2023-10-23 21:35:07 App\Jobs\ExportViajesExcel ..................... RUNNING
+  2023-10-23 21:35:13 App\Jobs\ExportViajesExcel ............. 5,423.03ms FAIL
+  2023-10-23 21:35:13 App\Jobs\ExportViajesExcel ..................... RUNNING
+  2023-10-23 21:35:18 App\Jobs\ExportViajesExcel ............. 5,352.97ms FAIL
+  2023-10-23 21:37:03 App\Jobs\ExportViajesExcel ..................... RUNNING
+  2023-10-23 21:37:09 App\Jobs\ExportViajesExcel ............. 5,654.05ms FAIL
+  2023-10-23 21:37:09 App\Jobs\ExportViajesExcel ..................... RUNNING
+  2023-10-23 21:37:14 App\Jobs\ExportViajesExcel ............. 5,402.66ms FAIL
+  2023-10-23 21:37:14 App\Jobs\ExportViajesExcel ..................... RUNNING
+  2023-10-23 21:37:20 App\Jobs\ExportViajesExcel ............. 5,386.23ms FAIL
+  2023-10-23 21:37:23 App\Jobs\GeneratePdf5 .......................... RUNNING
+  2023-10-23 21:37:24 App\Jobs\GeneratePdf5 .................. 1,039.51ms DONE
+  2023-10-24 08:11:37 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-24 08:11:37 App\Events\NewViajeEvent .................. 39.80ms DONE
+  2023-10-24 09:07:54 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-24 09:07:55 App\Events\NewViajeEvent .................. 63.97ms DONE
+  2023-10-24 09:51:35 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-24 09:51:35 App\Events\NewViajeEvent .................. 55.42ms DONE
+  2023-10-24 15:27:27 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-24 15:27:27 App\Events\NewViajeEvent .................. 70.59ms DONE
+  2023-10-25 10:52:21 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-25 10:52:22 App\Events\NewViajeEvent ................. 167.27ms DONE
+  2023-10-25 10:59:52 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-25 10:59:52 App\Events\NewViajeEvent .................. 19.55ms DONE
+  2023-10-25 11:02:41 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-25 11:02:41 App\Events\NewViajeEvent .................. 15.58ms DONE
+  2023-10-25 11:02:59 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-25 11:02:59 App\Events\NewViajeEvent .................. 19.34ms DONE
+  2023-10-25 11:04:53 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-25 11:04:53 App\Events\NewViajeEvent .................. 60.03ms DONE
+  2023-10-25 11:05:35 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-25 11:05:35 App\Events\NewViajeEvent .................. 20.76ms DONE
+  2023-10-25 11:07:11 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-25 11:07:11 App\Events\NewViajeEvent .................. 24.28ms DONE
+  2023-10-25 11:08:17 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-25 11:08:17 App\Events\NewViajeEvent .................. 84.41ms DONE
+  2023-10-25 11:50:37 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-25 11:50:37 App\Events\NewViajeEvent .................. 16.21ms DONE
+  2023-10-25 16:19:23 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-25 16:19:23 App\Events\NewViajeEvent .................. 64.45ms DONE
+  2023-10-25 16:26:12 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-25 16:26:12 App\Events\NewViajeEvent .................. 14.13ms DONE
+  2023-10-25 16:58:24 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-25 16:58:24 App\Events\NewViajeEvent .................. 27.34ms DONE
+  2023-10-25 19:30:42 App\Jobs\OptimizeImagen ........................ RUNNING
+  2023-10-25 19:30:42 App\Jobs\OptimizeImagen .................. 259.11ms DONE
+  2023-10-25 19:30:42 App\Jobs\OptimizeImagen ........................ RUNNING
+  2023-10-25 19:30:43 App\Jobs\OptimizeImagen .................. 225.79ms DONE
+  2023-10-25 19:33:45 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-25 19:33:45 App\Events\NewViajeEvent .................. 67.49ms DONE
+  2023-10-25 21:10:02 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-25 21:10:02 App\Events\NewViajeEvent .................. 61.10ms DONE
+  2023-10-26 00:28:47 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-26 00:28:47 App\Events\NewViajeEvent .................. 43.17ms DONE
+  2023-10-26 02:13:09 App\Jobs\OptimizeImagen ........................ RUNNING
+  2023-10-26 02:13:09 App\Jobs\OptimizeImagen .................. 198.58ms DONE
+  2023-10-26 02:13:48 App\Jobs\OptimizeImagen ........................ RUNNING
+  2023-10-26 02:13:48 App\Jobs\OptimizeImagen .................. 288.25ms DONE
+  2023-10-26 02:14:21 App\Jobs\OptimizeImagen ........................ RUNNING
+  2023-10-26 02:14:22 App\Jobs\OptimizeImagen .................. 211.80ms DONE
+  2023-10-26 09:37:28 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-26 09:37:28 App\Events\NewViajeEvent .................. 53.80ms DONE
+  2023-10-26 11:39:03 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-26 11:39:03 App\Events\NewViajeEvent .................. 42.53ms DONE
+  2023-10-26 16:03:53 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-26 16:03:53 App\Events\NewViajeEvent .................. 66.39ms DONE
+  2023-10-26 17:01:51 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-26 17:01:51 App\Events\NewViajeEvent .................. 60.32ms DONE
+  2023-10-26 17:08:55 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-26 17:08:55 App\Events\NewViajeEvent .................. 53.04ms DONE
+  2023-10-26 17:19:50 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-26 17:19:50 App\Events\NewViajeEvent .................. 64.95ms DONE
+  2023-10-26 17:21:50 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-26 17:21:50 App\Events\NewViajeEvent .................. 21.00ms DONE
+  2023-10-26 19:05:43 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-26 19:05:43 App\Events\NewViajeEvent .................. 57.70ms DONE
+  2023-10-26 19:25:54 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-26 19:25:54 App\Events\NewViajeEvent .................. 61.18ms DONE
+  2023-10-26 19:42:44 App\Jobs\OptimizeImagen ........................ RUNNING
+  2023-10-26 19:42:44 App\Jobs\OptimizeImagen ................... 61.18ms FAIL
+  2023-10-26 19:42:44 App\Jobs\OptimizeImagen ........................ RUNNING
+  2023-10-26 19:42:44 App\Jobs\OptimizeImagen ................... 18.10ms FAIL
+  2023-10-26 19:42:44 App\Jobs\OptimizeImagen ........................ RUNNING
+  2023-10-26 19:42:44 App\Jobs\OptimizeImagen ................... 26.10ms FAIL
+  2023-10-26 19:43:02 App\Jobs\OptimizeImagen ........................ RUNNING
+  2023-10-26 19:43:02 App\Jobs\OptimizeImagen .................. 360.17ms DONE
+  2023-10-26 19:43:20 App\Jobs\OptimizeImagen ........................ RUNNING
+  2023-10-26 19:43:20 App\Jobs\OptimizeImagen .................. 202.47ms DONE
+  2023-10-26 19:43:47 App\Jobs\OptimizeImagen ........................ RUNNING
+  2023-10-26 19:43:48 App\Jobs\OptimizeImagen .................. 227.51ms DONE
+  2023-10-26 19:45:06 App\Jobs\OptimizeImagen ........................ RUNNING
+  2023-10-26 19:45:06 App\Jobs\OptimizeImagen .................. 254.03ms DONE
+  2023-10-26 19:45:48 App\Jobs\OptimizeImagen ........................ RUNNING
+  2023-10-26 19:45:48 App\Jobs\OptimizeImagen .................. 555.76ms DONE
+  2023-10-26 19:45:57 App\Jobs\OptimizeImagen ........................ RUNNING
+  2023-10-26 19:45:58 App\Jobs\OptimizeImagen .................. 236.53ms DONE
+  2023-10-26 19:46:06 App\Jobs\OptimizeImagen ........................ RUNNING
+  2023-10-26 19:46:06 App\Jobs\OptimizeImagen .................. 180.23ms DONE
+  2023-10-26 21:19:18 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-26 21:19:18 App\Events\NewViajeEvent .................. 68.69ms DONE
+  2023-10-26 21:27:56 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-26 21:27:56 App\Events\NewViajeEvent .................. 48.62ms DONE
+  2023-10-26 21:29:49 App\Jobs\OptimizeImagen ........................ RUNNING
+  2023-10-26 21:29:50 App\Jobs\OptimizeImagen .................. 318.70ms DONE
+  2023-10-26 21:29:50 App\Jobs\OptimizeImagen ........................ RUNNING
+  2023-10-26 21:29:50 App\Jobs\OptimizeImagen .................. 318.95ms DONE
+  2023-10-26 21:36:45 App\Jobs\OptimizeImagen ........................ RUNNING
+  2023-10-26 21:36:45 App\Jobs\OptimizeImagen .................. 175.13ms DONE
+  2023-10-26 21:37:45 App\Jobs\OptimizeImagen ........................ RUNNING
+  2023-10-26 21:37:45 App\Jobs\OptimizeImagen .................. 318.91ms DONE
+  2023-10-26 21:38:45 App\Jobs\OptimizeImagen ........................ RUNNING
+  2023-10-26 21:38:46 App\Jobs\OptimizeImagen .................. 220.67ms DONE
+  2023-10-26 21:44:40 App\Jobs\OptimizeImagen ........................ RUNNING
+  2023-10-26 21:44:40 App\Jobs\OptimizeImagen .................. 209.16ms DONE
+  2023-10-26 21:51:11 App\Jobs\OptimizeImagen ........................ RUNNING
+  2023-10-26 21:51:11 App\Jobs\OptimizeImagen .................. 255.83ms DONE
+  2023-10-26 21:56:24 App\Jobs\OptimizeImagen ........................ RUNNING
+  2023-10-26 21:56:24 App\Jobs\OptimizeImagen ........................ RUNNING
+  2023-10-26 21:56:24 App\Jobs\OptimizeImagen .................. 245.46ms DONE
+  2023-10-26 21:56:24 App\Jobs\OptimizeImagen .................. 236.20ms DONE
+  2023-10-26 23:02:22 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-26 23:02:22 App\Events\NewViajeEvent .................. 85.23ms DONE
+  2023-10-27 11:26:22 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-27 11:26:22 App\Events\NewViajeEvent .................. 37.93ms DONE
+  2023-10-27 11:50:41 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-27 11:50:41 App\Events\NewViajeEvent .................. 61.21ms DONE
+  2023-10-27 13:03:07 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-27 13:03:07 App\Events\NewViajeEvent .................. 70.94ms DONE
+  2023-10-27 13:54:08 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-27 13:54:08 App\Events\NewViajeEvent .................. 45.96ms DONE
+  2023-10-27 18:53:23 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-27 18:53:23 App\Events\NewViajeEvent .................. 48.25ms DONE
+  2023-10-27 19:34:01 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-27 19:34:01 App\Events\NewViajeEvent .................. 52.39ms DONE
+  2023-10-27 20:55:38 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-27 20:55:38 App\Events\NewViajeEvent .................. 48.81ms DONE
+  2023-10-27 21:54:58 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-27 21:54:58 App\Events\NewViajeEvent .................. 53.75ms DONE
+  2023-10-27 23:23:44 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-27 23:23:44 App\Events\NewViajeEvent .................. 88.15ms DONE
+  2023-10-27 23:50:45 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-27 23:50:45 App\Events\NewViajeEvent .................. 53.91ms DONE
+  2023-10-28 02:31:38 App\Jobs\SaveCierre ............................ RUNNING
+  2023-10-28 02:31:39 App\Jobs\SaveCierre ...................... 554.88ms DONE
+  2023-10-28 02:32:12 App\Jobs\ExportViajesExcel ..................... RUNNING
+  2023-10-28 02:32:12 App\Jobs\ExportViajesExcel ................ 30.02ms FAIL
+  2023-10-28 02:32:12 App\Jobs\ExportViajesExcel ..................... RUNNING
+  2023-10-28 02:32:12 App\Jobs\ExportViajesExcel ................ 27.42ms FAIL
+  2023-10-28 02:32:12 App\Jobs\ExportViajesExcel ..................... RUNNING
+  2023-10-28 02:32:12 App\Jobs\ExportViajesExcel ................ 22.33ms FAIL
+  2023-10-28 02:32:52 App\Jobs\ExportViajesExcel ..................... RUNNING
+  2023-10-28 02:32:52 App\Jobs\ExportViajesExcel ................ 63.00ms FAIL
+  2023-10-28 02:32:52 App\Jobs\ExportViajesExcel ..................... RUNNING
+  2023-10-28 02:32:52 App\Jobs\ExportViajesExcel ................ 42.42ms FAIL
+  2023-10-28 02:32:52 App\Jobs\ExportViajesExcel ..................... RUNNING
+  2023-10-28 02:32:52 App\Jobs\ExportViajesExcel ................ 22.04ms FAIL
+  2023-10-28 02:33:31 App\Jobs\ExportViajesExcel ..................... RUNNING
+  2023-10-28 02:33:31 App\Jobs\ExportViajesExcel ................ 25.40ms FAIL
+  2023-10-28 02:33:31 App\Jobs\ExportViajesExcel ..................... RUNNING
+  2023-10-28 02:33:31 App\Jobs\ExportViajesExcel ................ 29.00ms FAIL
+  2023-10-28 02:33:31 App\Jobs\ExportViajesExcel ..................... RUNNING
+  2023-10-28 02:33:31 App\Jobs\ExportViajesExcel ................ 24.06ms FAIL
+  2023-10-28 02:33:40 App\Jobs\ExportViajesExcel ..................... RUNNING
+  2023-10-28 02:33:40 App\Jobs\ExportViajesExcel ................ 20.31ms FAIL
+  2023-10-28 02:33:40 App\Jobs\ExportViajesExcel ..................... RUNNING
+  2023-10-28 02:33:40 App\Jobs\ExportViajesExcel ................ 21.67ms FAIL
+  2023-10-28 02:33:40 App\Jobs\ExportViajesExcel ..................... RUNNING
+  2023-10-28 02:33:40 App\Jobs\ExportViajesExcel ................ 23.36ms FAIL
+  2023-10-28 02:33:42 App\Jobs\ExportViajesExcel ..................... RUNNING
+  2023-10-28 02:33:42 App\Jobs\ExportViajesExcel ................ 31.97ms FAIL
+  2023-10-28 02:33:42 App\Jobs\ExportViajesExcel ..................... RUNNING
+  2023-10-28 02:33:42 App\Jobs\ExportViajesExcel ................ 21.91ms FAIL
+  2023-10-28 02:33:42 App\Jobs\ExportViajesExcel ..................... RUNNING
+  2023-10-28 02:33:42 App\Jobs\ExportViajesExcel ................ 32.31ms FAIL
+  2023-10-28 02:33:42 App\Jobs\ExportViajesExcel ..................... RUNNING
+  2023-10-28 02:33:42 App\Jobs\ExportViajesExcel ................ 15.92ms FAIL
+  2023-10-28 02:33:42 App\Jobs\ExportViajesExcel ..................... RUNNING
+  2023-10-28 02:33:42 App\Jobs\ExportViajesExcel ................ 20.42ms FAIL
+  2023-10-28 02:33:43 App\Jobs\ExportViajesExcel ..................... RUNNING
+  2023-10-28 02:33:43 App\Jobs\ExportViajesExcel ................ 13.91ms FAIL
+  2023-10-28 02:33:43 App\Jobs\ExportViajesExcel ..................... RUNNING
+  2023-10-28 02:33:43 App\Jobs\ExportViajesExcel ................ 21.02ms FAIL
+  2023-10-28 02:33:43 App\Jobs\ExportViajesExcel ..................... RUNNING
+  2023-10-28 02:33:43 App\Jobs\ExportViajesExcel ................ 24.65ms FAIL
+  2023-10-28 02:33:43 App\Jobs\ExportViajesExcel ..................... RUNNING
+  2023-10-28 02:33:43 App\Jobs\ExportViajesExcel ................ 22.99ms FAIL
+  2023-10-28 02:33:43 App\Jobs\ExportViajesExcel ..................... RUNNING
+  2023-10-28 02:33:43 App\Jobs\ExportViajesExcel ................ 26.70ms FAIL
+  2023-10-28 02:33:43 App\Jobs\ExportViajesExcel ..................... RUNNING
+  2023-10-28 02:33:43 App\Jobs\ExportViajesExcel ................ 24.13ms FAIL
+  2023-10-28 02:33:43 App\Jobs\ExportViajesExcel ..................... RUNNING
+  2023-10-28 02:33:43 App\Jobs\ExportViajesExcel ................ 25.28ms FAIL
+  2023-10-28 02:33:43 App\Jobs\ExportViajesExcel ..................... RUNNING
+  2023-10-28 02:33:43 App\Jobs\ExportViajesExcel ................ 25.87ms FAIL
+  2023-10-28 02:33:43 App\Jobs\ExportViajesExcel ..................... RUNNING
+  2023-10-28 02:33:43 App\Jobs\ExportViajesExcel ................ 22.64ms FAIL
+  2023-10-28 02:33:43 App\Jobs\ExportViajesExcel ..................... RUNNING
+  2023-10-28 02:33:43 App\Jobs\ExportViajesExcel ................ 22.79ms FAIL
+  2023-10-28 02:33:55 App\Jobs\ExportViajesExcel ..................... RUNNING
+  2023-10-28 02:33:55 App\Jobs\ExportViajesExcel ................ 25.39ms FAIL
+  2023-10-28 02:33:55 App\Jobs\ExportViajesExcel ..................... RUNNING
+  2023-10-28 02:33:55 App\Jobs\ExportViajesExcel ................ 30.35ms FAIL
+  2023-10-28 02:33:55 App\Jobs\ExportViajesExcel ..................... RUNNING
+  2023-10-28 02:33:55 App\Jobs\ExportViajesExcel ................ 19.94ms FAIL
+  2023-10-28 09:52:43 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-28 09:52:43 App\Events\NewViajeEvent .................. 64.35ms DONE
+  2023-10-28 10:38:23 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-28 10:38:23 App\Events\NewViajeEvent .................. 60.96ms DONE
+  2023-10-28 11:40:20 App\Jobs\OptimizeImagen ........................ RUNNING
+  2023-10-28 11:40:21 App\Jobs\OptimizeImagen .................. 257.21ms DONE
+  2023-10-28 11:40:32 App\Jobs\OptimizeImagen ........................ RUNNING
+  2023-10-28 11:40:33 App\Jobs\OptimizeImagen .................. 239.12ms DONE
+  2023-10-28 12:32:55 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-28 12:32:55 App\Events\NewViajeEvent .................. 46.15ms DONE
+  2023-10-28 12:42:53 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-28 12:42:53 App\Events\NewViajeEvent .................. 50.33ms DONE
+  2023-10-28 13:17:14 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-28 13:17:14 App\Events\NewViajeEvent .................. 69.09ms DONE
+  2023-10-28 15:32:23 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-28 15:32:23 App\Events\NewViajeEvent .................. 55.57ms DONE
+  2023-10-28 16:22:55 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-28 16:22:55 App\Events\NewViajeEvent .................. 55.25ms DONE
+  2023-10-28 16:52:31 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-28 16:52:31 App\Events\NewViajeEvent .................. 19.85ms DONE
+  2023-10-28 17:23:22 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-28 17:23:22 App\Events\NewViajeEvent .................. 43.91ms DONE
+  2023-10-28 18:34:46 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-28 18:34:46 App\Events\NewViajeEvent .................. 45.76ms DONE
+  2023-10-28 21:29:14 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-28 21:29:14 App\Events\NewViajeEvent .................. 56.43ms DONE
+  2023-10-28 21:58:10 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-28 21:58:10 App\Events\NewViajeEvent .................. 23.62ms DONE
+  2023-10-28 22:10:09 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-28 22:10:09 App\Events\NewViajeEvent .................. 50.33ms DONE
+  2023-10-28 22:32:38 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-28 22:32:38 App\Events\NewViajeEvent .................. 52.42ms DONE
+  2023-10-28 23:10:20 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-28 23:10:20 App\Events\NewViajeEvent .................. 60.95ms DONE
+  2023-10-29 10:13:22 App\Events\NewViajeEvent ....................... RUNNING
+  2023-10-29 10:13:22 App\Events\NewViajeEvent ................. 186.72ms DONE

@@ -1,0 +1,26 @@
+
+
+*{
+    --myprimary: rgb(99 102 241 );
+}
+
+.btn-selected{
+    background-color: green;
+}
+
+progress::-moz-progress-bar { 
+    background: var(--myprimary); 
+    height: 4px;
+}
+progress::-webkit-progress-value { 
+    background: var(--myprimary); 
+    height: 4px;
+}
+progress { 
+    color: var(--myprimary); 
+    height: 4px;
+}
+
+.flatpickr-calendar{
+    
+}
